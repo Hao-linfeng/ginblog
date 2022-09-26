@@ -1,0 +1,1 @@
+time="2022-09-24T13:51:03+08:00" level=info Agent=PostmanRuntime/7.29.2 DataSize=324 HostName=LAPTOP-3S3FQRH8 Ip=127.0.0.1 Method=GET path=/api/v1/article/info/100 spandTime="9 ms" status=200
